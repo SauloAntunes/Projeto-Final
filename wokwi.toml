@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/SE_security.uf2'
+elf = 'build/SE_security.elf'
